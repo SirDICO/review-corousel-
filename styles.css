@@ -231,6 +231,7 @@ main {
 }
 #author {
   margin-bottom: 0.25rem;
+  color:var(--clr-primary-7);
 }
 #job {
   margin-bottom: 0.5rem;
@@ -240,6 +241,7 @@ main {
 }
 #info {
   margin-bottom: 0.75rem;
+  
 }
 .prev-btn,
 .next-btn {
